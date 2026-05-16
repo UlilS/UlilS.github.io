@@ -2,31 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ulils.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/%E6%98%A5%E6%97%A5/</loc>
+    <lastmod>2026-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E7%BB%98%E7%94%BB/</loc>
+    <lastmod>2026-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2026-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ulils.github.io/categories/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ulils.github.io/post/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ulils.github.io/categories/%E7%BB%98%E7%94%BB/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ulils.github.io/p/%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ulils.github.io/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ulils.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ulils.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://ulils.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>https://ulils.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
